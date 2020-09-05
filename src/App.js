@@ -1,8 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+  console.log("DEPLOY TEST");
+
   return (
     <div className="App">
       <header className="App-header">
